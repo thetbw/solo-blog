@@ -10,18 +10,18 @@ thetbw
 
 ### 最新
 
-* [我的开源](https://thetbw.xyz/my-github-repos)
-* [【MyBatis】关于MyBatis提示‘Mapped Statements collection already contains value for’的解决办法](https://thetbw.xyz/articles/2019/04/13/1555165639350.html)
-* [【mysql学习笔记】9.mysql小总结](https://thetbw.xyz/articles/2019/04/04/1554380174554.html)
-* [【mysql学习笔记】9.安全管理](https://thetbw.xyz/articles/2019/03/31/1554006356903.html)
-* [【MySQL学习笔记】8.过滤数据](https://thetbw.xyz/articles/2019/03/31/1553997796005.html)
-* [【mysql学习笔记】7.查询数据](https://thetbw.xyz/articles/2019/03/31/1553996315293.html)
-* [[mysql学习笔记] 5.插入数据](https://thetbw.xyz/articles/2019/03/31/1553996251474.html)
-* [【MySQL学习笔记】 4. 创建和操纵表](https://thetbw.xyz/articles/2019/03/31/1553996223827.html)
-* [【MySQL学习笔记】2. ubuntu下安装mysql](https://thetbw.xyz/articles/2019/03/31/1553996063265.html)
-* [【MySQL学习笔记】3. 初次使用MySQL](https://thetbw.xyz/articles/2019/03/30/1553959765309.html)
-* [[mysql学习笔记]6.使用java连接到mysql](https://thetbw.xyz/articles/2019/03/30/1553959629237.html)
-* [【mysql学习笔记】1.关于mysql](https://thetbw.xyz/articles/2019/03/30/1553959367368.html)
+* [我的开源](https://thetbw.xyz/solo/my-github-repos)
+* [【MyBatis】关于MyBatis提示‘Mapped Statements collection already contains value for’的解决办法](https://thetbw.xyz/solo/articles/2019/04/13/1555165639350.html)
+* [【mysql学习笔记】9.mysql小总结](https://thetbw.xyz/solo/articles/2019/04/04/1554380174554.html)
+* [【mysql学习笔记】9.安全管理](https://thetbw.xyz/solo/articles/2019/03/31/1554006356903.html)
+* [【MySQL学习笔记】8.过滤数据](https://thetbw.xyz/solo/articles/2019/03/31/1553997796005.html)
+* [【mysql学习笔记】7.查询数据](https://thetbw.xyz/solo/articles/2019/03/31/1553996315293.html)
+* [[mysql学习笔记] 5.插入数据](https://thetbw.xyz/solo/articles/2019/03/31/1553996251474.html)
+* [【MySQL学习笔记】 4. 创建和操纵表](https://thetbw.xyz/solo/articles/2019/03/31/1553996223827.html)
+* [【MySQL学习笔记】2. ubuntu下安装mysql](https://thetbw.xyz/solo/articles/2019/03/31/1553996063265.html)
+* [【MySQL学习笔记】3. 初次使用MySQL](https://thetbw.xyz/solo/articles/2019/03/30/1553959765309.html)
+* [[mysql学习笔记]6.使用java连接到mysql](https://thetbw.xyz/solo/articles/2019/03/30/1553959629237.html)
+* [【mysql学习笔记】1.关于mysql](https://thetbw.xyz/solo/articles/2019/03/30/1553959367368.html)
 
 
 
