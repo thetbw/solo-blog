@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [世界，你好！](https://thetbw.xyz/hello-solo)
+* [世界，你好！](https://thetbw.xyz/solo/hello-solo)
 
 
 
