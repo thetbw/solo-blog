@@ -1,4 +1,4 @@
-<p align="center"><img alt="黑羽 的个人博客" src="https://thetbw.xyz/images/logo.png"></p><h2 align="center">
+<p align="center"><img alt="黑羽 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
 黑羽 的个人博客
 </h2>
 
@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [个人收藏网站推荐](https://thetbw.xyz/articles/2019/06/02/1559457140842.html)
+* [个人收藏网站推荐](https://thetbw.xyz/solo/articles/2019/06/02/1559457140842.html)
 
 
 
