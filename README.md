@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [个人收藏网站推荐](https://thetbw.xyz/solo/articles/2019/06/02/1559457140842.html)
+* [个人收藏网站推荐](https://thetbw.xyz/articles/2019/06/02/1559457140842.html)
 
 
 
