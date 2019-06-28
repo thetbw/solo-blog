@@ -10,17 +10,17 @@
 
 ### 最新
 
-* [【mysql学习笔记】9.MySql小总结](https://thetbw.xyz/solo/articles/2019/06/08/1559997714257.html)
-* [【mysql学习笔记】8.安全管理](https://thetbw.xyz/solo/articles/2019/06/08/1559997658793.html)
-* [【mysql学习笔记】7.排序检索和过滤](https://thetbw.xyz/solo/articles/2019/06/08/1559997573436.html)
-* [【mysql学习笔记】6.查询数据](https://thetbw.xyz/solo/articles/2019/06/08/1559997495603.html)
-* [【mysql学习笔记】5.使用java连接到mysql](https://thetbw.xyz/solo/articles/2019/06/08/1559997430916.html)
-* [【mysql学习笔记】 4.插入数据](https://thetbw.xyz/solo/articles/2019/06/08/1559997387780.html)
-* [【MySQL学习笔记】 3. 创建和操纵表](https://thetbw.xyz/solo/articles/2019/06/08/1559997351172.html)
-* [【MySQL学习笔记】2. 初次使用MySQL](https://thetbw.xyz/solo/articles/2019/06/08/1559997290344.html)
-* [【mysql学习笔记】1.关于数据库](https://thetbw.xyz/solo/articles/2019/06/08/1559997198108.html)
-* [about](https://thetbw.xyz/solo/about)
-* [个人收藏网站推荐](https://thetbw.xyz/solo/articles/2019/06/02/1559457140842.html)
+* [【mysql学习笔记】9.MySql小总结](https://thetbw.xyz/articles/2019/06/08/1559997714257.html)
+* [【mysql学习笔记】8.安全管理](https://thetbw.xyz/articles/2019/06/08/1559997658793.html)
+* [【mysql学习笔记】7.排序检索和过滤](https://thetbw.xyz/articles/2019/06/08/1559997573436.html)
+* [【mysql学习笔记】6.查询数据](https://thetbw.xyz/articles/2019/06/08/1559997495603.html)
+* [【mysql学习笔记】5.使用java连接到mysql](https://thetbw.xyz/articles/2019/06/08/1559997430916.html)
+* [【mysql学习笔记】 4.插入数据](https://thetbw.xyz/articles/2019/06/08/1559997387780.html)
+* [【MySQL学习笔记】 3. 创建和操纵表](https://thetbw.xyz/articles/2019/06/08/1559997351172.html)
+* [【MySQL学习笔记】2. 初次使用MySQL](https://thetbw.xyz/articles/2019/06/08/1559997290344.html)
+* [【mysql学习笔记】1.关于数据库](https://thetbw.xyz/articles/2019/06/08/1559997198108.html)
+* [about](https://thetbw.xyz/about)
+* [个人收藏网站推荐](https://thetbw.xyz/articles/2019/06/02/1559457140842.html)
 
 
 
